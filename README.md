@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Python , Machine Learning ,SQL**
 
-- 📫 How to reach me **kawlerakesh9@gmail.com**
+- 📫 How to reach me **kawlerakesh@gmail.com**
 
 - ⚡ Fun fact **⚡ Fun fact: I'm an avid chess player and have participated in several local tournaments! ♟️🏆**
 
